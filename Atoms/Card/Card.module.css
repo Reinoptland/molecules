@@ -1,0 +1,13 @@
+.card {
+  background-color: var(--white);
+  border-radius: 13px;
+  padding: 24px;
+}
+
+.shadow {
+  box-shadow: var(--box-shadow);
+}
+
+.primary {
+  background-color: var(--primary);
+}

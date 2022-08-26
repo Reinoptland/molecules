@@ -1,0 +1,10 @@
+.heading {
+  font-family: var(--font-family-primary);
+  color: var(--gray);
+  font-size: 3.5rem;
+  line-height: 1.14em;
+}
+
+.black-light {
+  color: var(--black-light);
+}
